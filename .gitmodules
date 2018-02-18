@@ -1,0 +1,6 @@
+[submodule "FlickrObjC"]
+	path = FlickrObjC
+	url = https://github.com/UncleRic/FlickrObjC.git
+[submodule "FlickrSwift"]
+	path = FlickrSwift
+	url = https://github.com/UncleRic/FlickrSwift.git
